@@ -1,0 +1,15 @@
+cloud:
+  aws:
+    credentials:
+      access-key: AKIA2X7WYPB357RWLD6G
+      secret-key: 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
+    region:
+      static: eu-central-1
+      auto: false
+
+application:
+  bucket:
+    name: javatechiestorage95
+
+server:
+  port: 9090
